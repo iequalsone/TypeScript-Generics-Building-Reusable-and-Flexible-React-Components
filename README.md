@@ -1,6 +1,6 @@
 # TypeScript Generics: Building Reusable and Flexible React Components
 
-Welcome to the TypeScript Generics repository! This repository complements the article "TypeScript Generics: Building Reusable and Flexible React Components" by providing practical, hands-on examples of how to create reusable, flexible, and type-safe React components with TypeScript.
+Welcome to the TypeScript Generics repository! This repository complements the article [TypeScript Generics: Building Reusable and Flexible React Components](https://www.linkedin.com/pulse/typescript-generics-building-reusable-flexible-react-jon-howard-r0nme/) by providing practical, hands-on examples of how to create reusable, flexible, and type-safe React components with TypeScript.
 
 ## 📚 Overview
 
